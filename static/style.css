@@ -29,6 +29,16 @@
 	border: 10px solid;
 }
 
+#dog-data{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.breedname{
+	display: block;
+	width: 25%;
+}
+
 
 
 
