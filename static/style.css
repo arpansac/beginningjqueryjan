@@ -1,0 +1,44 @@
+.box{
+	border: 1px solid;
+}
+
+#level1{
+	height: 400px;
+	width: 400px;
+	background-color: red;
+}
+
+#level2{
+	height: 300px;
+	width: 300px;
+	background-color: yellow;
+}
+
+#level3{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+}
+
+#big-box{
+	height: 500px;
+	width: 500px;
+}
+
+.heavy-border{
+	border: 10px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
